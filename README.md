@@ -1,2 +1,2 @@
 # IIR-design
-dsp teamwork, python, heartrate detection
+dsp, python, fan speed detection, heartrate detection
